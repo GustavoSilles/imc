@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react_avanced",
+    "slug": "react_avanced",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react_avanced"
+}
